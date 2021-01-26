@@ -1,4 +1,4 @@
-# F2FS-Source-Code-Scan
+# F2FS Source Code Analysis
 This repository is used to analyze the source codes of F2FS, and is expected to be helpful to developers who are learning about F2FS. This repository is translated from [F2FS-NOTES](https://github.com/RiweiPan/F2FS-NOTES).
 
 
